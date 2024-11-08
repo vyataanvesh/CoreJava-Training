@@ -6,5 +6,6 @@ public class TypesOfPrintStatements {
         System.out.print("This is print");
         System.out.println("This is println");
         System.out.printf("This is printf generated on Day %d of Month %s",07,"November");
+        System.err.println("This is an error println");
     }
 }
